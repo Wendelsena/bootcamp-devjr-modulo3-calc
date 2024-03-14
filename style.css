@@ -27,6 +27,7 @@ body {
 
 input {
     height: 22px;
+    width: 280px;
     padding: 8px;
     font-size: 1.2em;
     margin: 15px 70px;
@@ -39,11 +40,12 @@ input[type=number]:focus {
     border: 1px solid #74d0ff;
 }
 
+
 button {
     background-color: #007afe;
     border: none;
     color: #fff;
-    padding: 15px 32px;
+    padding: 15px 31px;
     text-decoration: none;
     font-size: 1.2rem;
     border-radius: 4px;
